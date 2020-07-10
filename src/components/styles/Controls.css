@@ -1,0 +1,13 @@
+.controlContainer {
+  background-color: lightblue;
+  padding: 10px;
+}
+
+.controlTasksRow {
+  display: flex;
+  padding: 10px;
+}
+
+.controlTasksnRowItems {
+  padding-right: 20px;
+}

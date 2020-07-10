@@ -1,0 +1,9 @@
+.taskContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  padding: 5px;
+  margin: 5px;
+  background-color: blue;
+}
